@@ -1,6 +1,6 @@
 # AstraInvest AI Downloads
 
-This public repository hosts signed-off binary releases for AstraInvest AI. Application source code is maintained in the private [`Iketips/astrainvest-ai`](https://github.com/Iketips/astrainvest-ai) repository.
+This public repository hosts published binary releases for AstraInvest AI. Application source code is maintained in the private [`Iketips/astrainvest-ai`](https://github.com/Iketips/astrainvest-ai) repository.
 
 ## Windows installer
 
